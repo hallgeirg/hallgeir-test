@@ -2,7 +2,7 @@
 template: page
 title: Om Hallgeir
 slug: om-hallgeir-gustavsen
-draft: true
+draft: false
 ---
 Jeg er Hallgeir, daglig leder og kreativ rådgiver i Vecora - digitalbyrå i Sandnes
 
