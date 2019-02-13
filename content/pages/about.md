@@ -1,7 +1,7 @@
 ---
 template: page
 title: Om Hallgeir
-slug: pages/about
+slug: about
 draft: false
 ---
 Jeg er Hallgeir, daglig leder og kreativ rådgiver i Vecora - digitalbyrå i Sandnes
