@@ -2,7 +2,7 @@
 template: post
 title: Ny bloggpost
 slug: her-er-en-by-bloggpost
-draft: true
+draft: false
 date: 2019-02-13T00:23:11.137Z
 description: >
   aoinbaoJeg er Hallgeir, daglig leder og kreativ rådgiver i Vecora -
